@@ -1,0 +1,10 @@
+
+.cardApp{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  margin: 30px;
+}
+.card{
+  margin-right: 20px;
+}
