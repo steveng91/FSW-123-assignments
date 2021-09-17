@@ -1,0 +1,13 @@
+.roll-dice{
+    display:flex;
+    flex-flow: column nowrap;
+    min-height: 100vh
+}
+.rolldice-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.roll-dice button{
+    align-items: center;
+}
