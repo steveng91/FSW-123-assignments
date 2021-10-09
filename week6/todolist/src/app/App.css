@@ -1,0 +1,18 @@
+h1{
+  border: solid black 10px;
+  text-align: center;
+  background-color: burlywood;
+}
+form{
+  text-align: center;
+  align-items: center;
+border-bottom: solid black 10px;
+  border-width: 30%;
+}
+.todo{
+  text-align: center;
+  align-items: center;
+
+
+  list-style: none;
+}
