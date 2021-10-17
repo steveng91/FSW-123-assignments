@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  max-height: 10vh;
+  background-color: blue;
+  color: white;
+}
+
+body{
+  background-color: aqua;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.add-btn:hover {
+  color: green;
+}
+
+
+.nav-links {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 30%;
+  list-style: none;
+  color: white;
+}
+
+.react-link {
+  color: white;
+  list-style: none;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.shop-container {
+  display: flex;
+  flex-flow: row wrap;
+  background-color: aquamarine;
+}
+
+.card {
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: skyblue;
+  padding: 1em;
+  margin: 1em;
+}
